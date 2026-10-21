@@ -34,21 +34,37 @@
 
 <p align="center">
   <a href="https://avoska-games.tech/en/games/wings-of-freedom/">
-    <img src="https://avoska-games.tech/img/landscape.jpg" width="100%" alt="Wings of Freedom — jungle at sunrise">
+    <img src="https://raw.githubusercontent.com/Avos-Ka-Games/Wings-of-Freedom/main/images/landscape.jpg" width="100%" alt="Wings of Freedom — jungle at sunrise">
   </a>
 </p>
 
 <table>
   <tr>
-    <td width="50%"><img src="https://avoska-games.tech/img/village.jpg" width="100%" alt="Village"></td>
-    <td width="50%"><img src="https://avoska-games.tech/img/gate.jpg" width="100%" alt="Temple gate in the fog"></td>
+    <td width="38%" align="center">
+      <img src="https://raw.githubusercontent.com/Avos-Ka-Games/Wings-of-Freedom/main/images/hero.jpg" width="100%" alt="The young Garuda">
+    </td>
+    <td width="62%">
+      <h3>🪶 The story</h3>
+      <p>You are a young <b>Garuda</b>. The Lord of Scales has kidnapped your mother.</p>
+      <p>To find her, cross the jungle, gather the pieces of the <b>sacred seal</b> and defeat the guardians bound by an oath to the gods.</p>
+      <p>A love letter to <b>wayang kulit</b> — the Javanese shadow-puppet theater — from its menus made of puppets to the procedural <b>gamelan</b> soundtrack.</p>
+      <p>
+        <img src="https://img.shields.io/badge/genre-third--person%20action-2a0509?style=flat-square&labelColor=160105" alt="Genre">
+        <img src="https://img.shields.io/badge/platform-Windows-2a0509?style=flat-square&labelColor=160105" alt="Platform">
+        <img src="https://img.shields.io/badge/languages-RU%20%2F%20ID-2a0509?style=flat-square&labelColor=160105" alt="Languages">
+        <img src="https://img.shields.io/badge/made%20in-48%20hours-e0332f?style=flat-square&labelColor=160105" alt="Made in 48 hours">
+      </p>
+    </td>
   </tr>
 </table>
 
-<p align="center">
-  You are a young <b>Garuda</b>. The Lord of Scales has kidnapped your mother.<br>
-  Cross the jungle, gather the pieces of the sacred seal and defeat the guardians bound by an oath to the gods.
-</p>
+<table>
+  <tr>
+    <td width="33%"><img src="https://raw.githubusercontent.com/Avos-Ka-Games/Wings-of-Freedom/main/images/village.jpg" width="100%" alt="Village"></td>
+    <td width="33%"><img src="https://raw.githubusercontent.com/Avos-Ka-Games/Wings-of-Freedom/main/images/menu.jpg" width="100%" alt="Shadow-theater main menu"></td>
+    <td width="33%"><img src="https://raw.githubusercontent.com/Avos-Ka-Games/Wings-of-Freedom/main/images/gate.jpg" width="100%" alt="Temple gate in the fog"></td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Avos-Ka-Games/.github/main/profile/assets/award.svg" width="100%" alt="1st place — CyberSmena: Moscow — Indonesia, Skolkovo">
